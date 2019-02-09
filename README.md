@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## News
+2018-02-03:宝宝过年回家啦！牛扒🐂还在科大😢 
 
-You can use the [editor on GitHub](https://github.com/niupalovetudou/niupalovetudou.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+2018-01-31:和宝宝一起出门时，🐮走路不能太快！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2018-12-26: 一周年 💗
 
-### Markdown
+2018-11-29: 牛扒🐮让土豆🥔哭了😱。牛扒要检讨😖
+  - 幸好还有睡前抱抱！
+  - 牛扒🐮希望土豆🥔在找工作这件事上可以主动一点。见下面的Tips。
+  - 找工作最重要的当然是 JMP quality 和 network，给定这两者，短期内还可以提高 _presentation_ 和 _interview skills_.
+  
+### 土豆找工作  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tips on presentation
+  1.  最重要的写在前面: _Know your time constraint_ and _practice more_.
+      - Presentation Slides 应该准备两份：30min 的版本（20 - 30 pages） 和60min 的版本（40 - 50 pages）。
+      - 在安静的地方一个人练习，也可以找牛扒🐮练习。
+  1.  Slides 尽量精简。 观众的注意力应该被你*说的内容* 吸引，而不是 Slides.
+  1.  Use figures whenever possible.
+      - 画图建议用 [PGF/TikZ](http://www.math.uni-leipzig.de/~hellmund/LaTeX/pgf-tut.pdf) 
+  1.  Pre 时掌握自己的节奏，不要被“观众提问”带偏。
+  1.  不重要但 _建议_:
+      - Do NOT use _theme_ in beamer. Default is usually optimal.
+      - 第一页放目录(Outline)。让别人知道你 take good command.
+      - 对于 30min 的presentation,附上页数即可。对于 60min 的presentation，使用 navigation bar.
+    
+Tips on interview skills
+  1.  多练习。注意 mock interview 和教授的反馈。
+  1.  多了解参加面试的学校。可能的话，多在网站上了解面试学校的教授的信息。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+##  Timeline
 
-- Bulleted
-- List
+开始
+  - 土豆接受了牛扒的爱
+  - 经研究，两人决定将开始的日子定为 2017/12/26。
+    - 标志事件：搭乘北京到张家口的大巴
+  
+🐮备忘录
+  1.  每天睡觉时都要记得抱抱
+  1.  偶尔会哭，这时一定要抱抱
+  1.  和土豆一起吃饭时，要吃慢一点，如果先吃完，要耐心等待 （2018-04-01）
+  1.  要始终相信宝宝 （2018-05-27）
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/niupalovetudou/niupalovetudou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+日常
+  - 🥔要去那不勒斯面试，希望🥔一切顺利🍀 
+  - 一起去亚特兰大 (2018-12-31) 
