@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
 title: 土豆 and 牛扒
 description: 这里生活着三种动物：牛扒🐮，马鸭🦆，和土豆熊🐻
+github:
+  is_project_page: false
