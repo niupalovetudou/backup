@@ -21,7 +21,7 @@
   - 找工作最重要的当然是 JMP quality 和 network，给定这两者，短期内还可以提高 _presentation_ 和 _interview skills_.
   
 ### 牛扒教土豆学代数
-- 土豆[笔记](niupalovetudou.github.io/Algebra)
+- 土豆[笔记](niupalovetudou.github.io/Algebra.pdf)
 
 ### 土豆找工作  
 
