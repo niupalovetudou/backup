@@ -20,10 +20,10 @@
   - 牛扒🐮希望土豆🥔在找工作这件事上可以主动一点。见下面的Tips。
   - 找工作最重要的当然是 JMP quality 和 network，给定这两者，短期内还可以提高 _presentation_ 和 _interview skills_.
   
-# 牛扒教土豆学代数
+## 牛扒教土豆学代数
 - 土豆[笔记](Algebra.pdf)
 
-# 土豆找工作  
+## 土豆找工作  
 
 Tips on presentation
   1.  最重要的写在前面: _Know your time constraint_ and _practice more_.
