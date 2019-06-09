@@ -20,7 +20,7 @@
 ## 旅行
   -  2017 夏：泰国（涛岛潜水，清迈），新加坡
   -  2018 冬：张家口滑雪，北京
-  -  2018 春：坎波迪亚（[暹粒](https://photos.google.com/album/AF1QipNA6gYhO3Qd81LICpn1ogEK0KuL8n54gI1dzm_P)，西哈努克，金边）
+  -  2018 春：坎波迪亚（[暹粒](https://photos.google.com/album/AF1QipNA6gYhO3Qd81LICpn1ogEK0KuL8n54gI1dzm_P)，[西哈努克](https://photos.google.com/album/AF1QipOOOwwuHwv_z6Tx_g8Xg6ua7BYw9qaQpu-vEaR7)，[金边](https://photos.google.com/album/AF1QipMIV-gJKNMmLgcmnvzhpfPcyYp6ofRGtLRv-cd0)）
   -  2018 夏：希腊（[雅典](https://photos.google.com/album/AF1QipPaLGvX8GYpTxPdbAMG4MM3CQ38DJyKS7zHsFe8)，[圣托里尼](https://photos.google.com/album/AF1QipMdpn62yKph1gFbCFFBKRQwlBIPOQfV6qce37ia)）
   -  2019 冬：[亚特兰大](https://photos.google.com/album/AF1QipMwWqVliE1uk5GSN69Vo6c3GnfkIHylmcWWZRmW)
   -  2019 春：[澳门](https://photos.google.com/album/AF1QipO3rg8n8Gr8dAAXfMnFU68dL0qAHPDYgfbpbpen)一日游
