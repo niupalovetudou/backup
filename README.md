@@ -67,7 +67,7 @@
     - 标志事件：搭乘北京到张家口的大巴
 
 ## 日常
-2019-05-25: [维港夜游钓墨鱼](https://photos.google.com/album/AF1QipNiV0pePqp-jiW2flVqQ_Rucq4jzoSJxhXSu0mO)。宝宝有认真钓，然而并没有收获...
+2019-05-25: [维港夜游钓墨鱼](https://photos.google.com/album/AF1QipNiV0pePqp-jiW2flVqQ_Rucq4jzoSJxhXSu0mO)~宝宝有认真钓，然而并没有收获...
 
 2019-05-20: 一起看《调音师》，有一只傻牛🐮总是吓宝宝，哼~ 电影好看，推荐。
 
