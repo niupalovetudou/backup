@@ -13,14 +13,14 @@
 
 2019-06-02: 电影《Once》：牛扒觉得电影不错，演员很青涩。土豆觉着故事有点纠结，男主撩女主的同时忘不了旧情人略渣。
 
-2019-06-01: 龙脊hiking~~ + 电影《Sing Street》：结尾过于上扬
+2019-06-01: [龙脊hiking]((https://photos.google.com/album/AF1QipPBdGkDEfmdCgrbwE1g55SKLP92BSfPz8-kNmA4))~~ + 电影《Sing Street》：结尾过于上扬
 
 # 爱玩的牛扒和土豆
 
 ## 旅行
   -  2017 夏：泰国（涛岛潜水，清迈），新加坡
   -  2018 冬：张家口滑雪，北京
-  -  2018 春：坎波迪亚（暹粒，西哈努克，金边）
+  -  2018 春：坎波迪亚（[暹粒](https://photos.google.com/album/AF1QipNA6gYhO3Qd81LICpn1ogEK0KuL8n54gI1dzm_P)，西哈努克，金边）
   -  2018 夏：希腊（[雅典](https://photos.google.com/album/AF1QipPaLGvX8GYpTxPdbAMG4MM3CQ38DJyKS7zHsFe8)，[圣托里尼](https://photos.google.com/album/AF1QipMdpn62yKph1gFbCFFBKRQwlBIPOQfV6qce37ia)）
   -  2019 冬：[亚特兰大](https://photos.google.com/album/AF1QipMwWqVliE1uk5GSN69Vo6c3GnfkIHylmcWWZRmW)
   -  2019 春：[澳门](https://photos.google.com/album/AF1QipO3rg8n8Gr8dAAXfMnFU68dL0qAHPDYgfbpbpen)一日游
@@ -67,7 +67,7 @@
     - 标志事件：搭乘北京到张家口的大巴
 
 ## 日常
-2019-05-25: 维港夜游钓墨鱼。宝宝有认真钓，然而并没有收获...
+2019-05-25: [维港夜游钓墨鱼](https://photos.google.com/album/AF1QipNiV0pePqp-jiW2flVqQ_Rucq4jzoSJxhXSu0mO)。宝宝有认真钓，然而并没有收获...
 
 2019-05-20: 一起看《调音师》，有一只傻牛🐮总是吓宝宝，哼~ 电影好看，推荐。
 
