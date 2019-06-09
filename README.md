@@ -24,7 +24,7 @@
   -  2018 夏：希腊（雅典，圣托里尼）
   -  2019 冬：亚特兰大
   -  2019 春：澳门
-  -  2019 春：日本关西（大阪，奈良，京都）
+  -  2019 春：日本[关西](https://photos.google.com/album/AF1QipMHPew_565_J9C8HkSSwApZeal033aETm_xGFpx)（大阪，奈良，京都）
 
 ## Hiking
   -  麦理浩径第四段
