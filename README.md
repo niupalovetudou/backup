@@ -5,7 +5,7 @@
 
 2019-06-06: 剧本杀，牛扒是凶手
 
-2019-06-04：终于游上了泳，累...
+2019-06-04: 终于游上了泳，累...
 
 2019-06-03: 电影《爆裂鼓手》：结构过于精巧，反倒不真。
 
@@ -21,7 +21,7 @@
   -  2017 夏：泰国（涛岛潜水，清迈），新加坡
   -  2018 冬：张家口滑雪，北京
   -  2018 春：坎波迪亚（暹粒，西哈努克，金边）
-  -  2018 夏：希腊（雅典，圣托里尼）
+  -  2018 夏：希腊（[雅典](https://photos.google.com/album/AF1QipPaLGvX8GYpTxPdbAMG4MM3CQ38DJyKS7zHsFe8)，[圣托里尼](https://photos.google.com/album/AF1QipMdpn62yKph1gFbCFFBKRQwlBIPOQfV6qce37ia)）
   -  2019 冬：[亚特兰大](https://photos.google.com/album/AF1QipMwWqVliE1uk5GSN69Vo6c3GnfkIHylmcWWZRmW)
   -  2019 春：[澳门](https://photos.google.com/album/AF1QipO3rg8n8Gr8dAAXfMnFU68dL0qAHPDYgfbpbpen)
   -  2019 春：日本关西（[大阪](https://photos.google.com/album/AF1QipMTyhyuaYLgA80nJw0J9S09xpjB0aq4bFtxEBdV)，[奈良](https://photos.google.com/album/AF1QipMQn-dpiZBwtsEME7Z0HlHadl1BmUHyTz5YGlyK)，[京都](https://photos.google.com/album/AF1QipNPX3MlTcpo3Wn_FaqBBuC7jrDqjENaDMEiXC5p)）
