@@ -1,7 +1,7 @@
 # News
 2019-06-08: 游泳~
 
-2019-06-07: 一大早赶去城大听![Morris](https://user-images.githubusercontent.com/45391046/59156491-ffbd4180-8ace-11e9-8eca-bc672ae507ff.jpg)
+2019-06-07: 一大早赶去城大听Morris
 
 2019-06-06: 剧本杀，牛扒是凶手
 
