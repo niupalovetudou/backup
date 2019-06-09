@@ -18,7 +18,7 @@
 # 爱玩的牛扒和土豆
 
 ## 旅行
-  -  2017 夏：泰国（涛岛潜水，清迈），新加坡
+  -  2017 夏：泰国（[涛岛潜水](https://photos.google.com/album/AF1QipM9Q1BznIop-hNLPKAlYlS9_LGbjDeix9L07t2o)，[清迈](https://photos.google.com/album/AF1QipNihJsUV2kbgIOdhSj2QqmrwmRmUps1HrWfNKwi)），新加坡
   -  2018 冬：[张家口滑雪](https://photos.google.com/album/AF1QipOIrHgRa3puOP3B-GFfiXu2Qsht5mbzWgMOMXZC)，[北京](https://photos.google.com/album/AF1QipOgDAvNcnT5rUUx3pmRRaCF3r0MDIgALMcilj2J)
   -  2018 春：坎波迪亚（[暹粒](https://photos.google.com/album/AF1QipNA6gYhO3Qd81LICpn1ogEK0KuL8n54gI1dzm_P)，[西哈努克](https://photos.google.com/album/AF1QipOOOwwuHwv_z6Tx_g8Xg6ua7BYw9qaQpu-vEaR7)，[金边](https://photos.google.com/album/AF1QipMIV-gJKNMmLgcmnvzhpfPcyYp6ofRGtLRv-cd0)）
   -  2018 夏：希腊（[雅典](https://photos.google.com/album/AF1QipPaLGvX8GYpTxPdbAMG4MM3CQ38DJyKS7zHsFe8)，[圣托里尼](https://photos.google.com/album/AF1QipMdpn62yKph1gFbCFFBKRQwlBIPOQfV6qce37ia)）
