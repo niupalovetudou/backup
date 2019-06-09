@@ -1,7 +1,7 @@
 # News
 2019-06-08: 游泳~
 
-2019-06-07: 一大早赶去城大听[Morris](Morris.md)
+2019-06-07: 一大早赶去城大听[Morris](Morris.md)的talk
 
 2019-06-06: 剧本杀，牛扒是凶手
 
@@ -23,7 +23,7 @@
   -  2018 春：坎波迪亚（暹粒，西哈努克，金边）
   -  2018 夏：希腊（雅典，圣托里尼）
   -  2019 冬：亚特兰大
-  -  2019 春：澳门
+  -  2019 春：[澳门](https://photos.google.com/album/AF1QipO3rg8n8Gr8dAAXfMnFU68dL0qAHPDYgfbpbpen)
   -  2019 春：日本关西（[大阪](https://photos.google.com/album/AF1QipMTyhyuaYLgA80nJw0J9S09xpjB0aq4bFtxEBdV)，[奈良](https://photos.google.com/album/AF1QipMQn-dpiZBwtsEME7Z0HlHadl1BmUHyTz5YGlyK)，[京都](https://photos.google.com/album/AF1QipNPX3MlTcpo3Wn_FaqBBuC7jrDqjENaDMEiXC5p)）
 
 ## Hiking
