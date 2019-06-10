@@ -1,4 +1,6 @@
 # News
+2019-06-10: 《2001太空漫游》
+
 2019-06-08: 游泳~
 
 2019-06-07: 一大早赶去城大听Morris的[talk](Morris.md)
@@ -31,7 +33,7 @@
   -  2018 夏：[首尔](https://photos.google.com/album/AF1QipOiFE5jFwo4M2SdlGQUNiypPMsDv759x_SU05vu)
   -  2018 夏（冬）：[奥克兰](https://photos.google.com/album/AF1QipO8LBIcvnCcw52-NztZTQKj7hJF1SjXa3otIwbM)
   -  2018 秋：[纳什维尔](https://photos.google.com/album/AF1QipMqH246N0WiCYeT8OB0zZEqlkiZuwz6yr-TPLMa)
-  -  2018 冬（夏）：墨尔本
+  -  2018 冬（夏）：[墨尔本](https://photos.google.com/album/AF1QipMnzMkE343odaDn-b8mbNBPNAmNGJ2k6aMQZ5nP)
 
 ## Hiking
   -  [麦理浩径第四段](https://photos.google.com/album/AF1QipPyQ7Lwp54M4jmSsh971vAAfBArOpNX_TXmpsCv)
@@ -71,7 +73,7 @@
 - 牛（牛），扒（扒），墩墩，阿黑
 
 ## 土豆又名
-- 宝宝，熊，马鸭，滚滚，大黑
+- 宝宝，熊，马鸭，滚滚，大黑，笑笑虎
 
 #  Timeline
 
