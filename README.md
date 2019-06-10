@@ -26,6 +26,13 @@
   -  2019 春：[澳门](https://photos.google.com/album/AF1QipO3rg8n8Gr8dAAXfMnFU68dL0qAHPDYgfbpbpen)一日游
   -  2019 春：日本关西（[大阪](https://photos.google.com/album/AF1QipMTyhyuaYLgA80nJw0J9S09xpjB0aq4bFtxEBdV)，[奈良](https://photos.google.com/album/AF1QipMQn-dpiZBwtsEME7Z0HlHadl1BmUHyTz5YGlyK)，[京都](https://photos.google.com/album/AF1QipNPX3MlTcpo3Wn_FaqBBuC7jrDqjENaDMEiXC5p)）
 
+## 没有牛扒的土豆
+  -  2018 夏：[新加坡](https://photos.google.com/album/AF1QipO4VxLkNLpigWlG0npdVbHt2issaJHM0V3tRm0M)
+  -  2018 夏：[首尔](https://photos.google.com/album/AF1QipOiFE5jFwo4M2SdlGQUNiypPMsDv759x_SU05vu)
+  -  2018 夏（冬）：[奥克兰](https://photos.google.com/album/AF1QipO8LBIcvnCcw52-NztZTQKj7hJF1SjXa3otIwbM)
+  -  2018 秋：[纳什维尔](https://photos.google.com/album/AF1QipMqH246N0WiCYeT8OB0zZEqlkiZuwz6yr-TPLMa)
+  -  2018 冬（夏）：墨尔本
+
 ## Hiking
   -  [麦理浩径第四段](https://photos.google.com/album/AF1QipPyQ7Lwp54M4jmSsh971vAAfBArOpNX_TXmpsCv)
   -  [飞蛾山](https://photos.google.com/album/AF1QipPmSlNKK1zeXEk9w1XiWuht8i0p3VmbVEN_VBUA)
