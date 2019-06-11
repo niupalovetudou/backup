@@ -33,6 +33,8 @@
   -  2018 夏：[首尔](https://photos.google.com/album/AF1QipOiFE5jFwo4M2SdlGQUNiypPMsDv759x_SU05vu)
   -  2018 夏（冬）：[奥克兰](https://photos.google.com/album/AF1QipO8LBIcvnCcw52-NztZTQKj7hJF1SjXa3otIwbM)
   -  2018 秋：[纳什维尔](https://photos.google.com/album/AF1QipMqH246N0WiCYeT8OB0zZEqlkiZuwz6yr-TPLMa)
+  -  2018 秋：[那不勒斯](https://photos.google.com/album/AF1QipNWzXnl59rjiXVt-onkGVP9UKjB0yF5Uod9QYwW)
+  -  2018 秋：[伊斯坦布尔](https://photos.google.com/album/AF1QipNcwVtdMQKEaligp0NVQvNPnpUSZ170RA6Y9YeG)
   -  2018 冬（夏）：[墨尔本](https://photos.google.com/album/AF1QipMnzMkE343odaDn-b8mbNBPNAmNGJ2k6aMQZ5nP)
 
 ## Hiking
@@ -43,7 +45,7 @@
   -  [元朗红叶](https://photos.google.com/album/AF1QipM7KNzA7bbrTR0BNBTyO1wPBhhvsPJ3vRfefJYA)
   -  [塔门](https://photos.google.com/album/AF1QipOJ2PQjFr8-J22p2vKdc4xbzPf2CgOH3Q-iXJ_Y)
   -  [荃湾饮茶](https://photos.google.com/album/AF1QipNYQHTDS89peaHVbfj77SNJwEEkgm0YRKTm-H0a)
-  -  [龙脊](https://photos.google.com/album/AF1QipPBdGkDEfmdCgrbwE1g55SKLP92BSfPz8-kNmA4)
+  -  龙脊[1](https://photos.google.com/album/AF1QipN2AgBdH5XP70mSJjfeZM1Nf1oQDM9uJyU5ZWJN)[2](https://photos.google.com/album/AF1QipPBdGkDEfmdCgrbwE1g55SKLP92BSfPz8-kNmA4)
   -  [大埔单车](https://photos.google.com/album/AF1QipNOVDfjP6q3pxkzEY433YJD0hMqI8b1gMVR37UD)
   -  [柏架山](https://photos.google.com/album/AF1QipN8qrYzO1hzkPA7Cq7uGoNjuIKRP2NnbdB_iTOD)
   
