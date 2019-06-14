@@ -1,6 +1,6 @@
 # News
 
-2019-06-14 to 16: 牛扒参加Asian Meeting
+2019-06-14 to 16: [牛扒](https://photos.google.com/album/AF1QipNLIKIvEvABJjuxYdVYHwVY10s2jFzyFPnswjrZ)去厦门参加Asian Meeting
 
 2019-06-11 to 13: IO Workshop
 -  Search (Wolinsky 1986)
