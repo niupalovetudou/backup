@@ -1,4 +1,13 @@
 # News
+
+2019-06-14 to 16: 牛扒参加Asian Meeting
+
+2019-06-11 to 13: IO Workshop
+-  Search (Wolinsky 1986)
+-  Captive/contestable customers 
+-  Fee structure
+-  Platform
+
 2019-06-10: 电影《2001太空漫游》34:14
 
 2019-06-08: 游泳~
@@ -72,7 +81,7 @@
 - Biu~
 
 ## 牛扒又名
-- 牛（牛），扒（扒），墩墩，阿黑
+- 牛（牛），扒（扒），墩墩，阿黑，大渡•熊夫
 
 ## 土豆又名
 - 宝宝，熊，马鸭，滚滚，大黑，笑笑虎
