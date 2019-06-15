@@ -24,12 +24,12 @@
 
 2019-06-02: 电影《Once》：牛扒觉得电影不错，演员很青涩。土豆觉着故事有点纠结，男主撩女主的同时忘不了旧情人略渣。
 
-2019-06-01: [龙脊hiking]((https://photos.google.com/album/AF1QipPBdGkDEfmdCgrbwE1g55SKLP92BSfPz8-kNmA4))~~ + 电影《Sing Street》：结尾过于上扬
+2019-06-01: [龙脊hiking](https://photos.google.com/album/AF1QipPBdGkDEfmdCgrbwE1g55SKLP92BSfPz8-kNmA4)~~ + 电影《Sing Street》：结尾过于上扬
 
 # 爱玩的牛扒和土豆
 
 ## 一起旅行
-  -  2019 春：日本关西（[大阪](https://photos.google.com/album/AF1QipMTyhyuaYLgA80nJw0J9S09xpjB0aq4bFtxEBdV)，[奈良](https://photos.google.com/album/AF1QipMQn-dpiZBwtsEME7Z0HlHadl1BmUHyTz5YGlyK)，[京都]）(https://photos.google.com/album/AF1QipNPX3MlTcpo3Wn_FaqBBuC7jrDqjENaDMEiXC5p)
+  -  2019 春：日本关西（[大阪](https://photos.google.com/album/AF1QipMTyhyuaYLgA80nJw0J9S09xpjB0aq4bFtxEBdV)，[奈良](https://photos.google.com/album/AF1QipMQn-dpiZBwtsEME7Z0HlHadl1BmUHyTz5YGlyK)，[京都](https://photos.google.com/album/AF1QipNPX3MlTcpo3Wn_FaqBBuC7jrDqjENaDMEiXC5p)）
   -  2019 春：[澳门](https://photos.google.com/album/AF1QipO3rg8n8Gr8dAAXfMnFU68dL0qAHPDYgfbpbpen)一日游
   -  2019 冬：[亚特兰大](https://photos.google.com/album/AF1QipMwWqVliE1uk5GSN69Vo6c3GnfkIHylmcWWZRmW)
   -  2018 夏：希腊（[雅典](https://photos.google.com/album/AF1QipPaLGvX8GYpTxPdbAMG4MM3CQ38DJyKS7zHsFe8)，[圣托里尼](https://photos.google.com/album/AF1QipMdpn62yKph1gFbCFFBKRQwlBIPOQfV6qce37ia)）
