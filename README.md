@@ -29,22 +29,22 @@
 # 爱玩的牛扒和土豆
 
 ## 一起旅行
-  -  2017 夏：泰国（[涛岛潜水](https://photos.google.com/album/AF1QipM9Q1BznIop-hNLPKAlYlS9_LGbjDeix9L07t2o)，[清迈](https://photos.google.com/album/AF1QipNihJsUV2kbgIOdhSj2QqmrwmRmUps1HrWfNKwi)），[新加坡](https://photos.google.com/album/AF1QipNdhnHVaUqx1M3sAs5R8rqRsZJIiwQhZbHkONct)
-  -  2018 冬：[张家口滑雪](https://photos.google.com/album/AF1QipOIrHgRa3puOP3B-GFfiXu2Qsht5mbzWgMOMXZC)，[北京](https://photos.google.com/album/AF1QipOgDAvNcnT5rUUx3pmRRaCF3r0MDIgALMcilj2J)
-  -  2018 春：坎波迪亚（[暹粒](https://photos.google.com/album/AF1QipNA6gYhO3Qd81LICpn1ogEK0KuL8n54gI1dzm_P)，[西哈努克](https://photos.google.com/album/AF1QipOOOwwuHwv_z6Tx_g8Xg6ua7BYw9qaQpu-vEaR7)，[金边](https://photos.google.com/album/AF1QipMIV-gJKNMmLgcmnvzhpfPcyYp6ofRGtLRv-cd0)）
-  -  2018 夏：希腊（[雅典](https://photos.google.com/album/AF1QipPaLGvX8GYpTxPdbAMG4MM3CQ38DJyKS7zHsFe8)，[圣托里尼](https://photos.google.com/album/AF1QipMdpn62yKph1gFbCFFBKRQwlBIPOQfV6qce37ia)）
-  -  2019 冬：[亚特兰大](https://photos.google.com/album/AF1QipMwWqVliE1uk5GSN69Vo6c3GnfkIHylmcWWZRmW)
+  -  2019 春：日本关西（[大阪](https://photos.google.com/album/AF1QipMTyhyuaYLgA80nJw0J9S09xpjB0aq4bFtxEBdV)，[奈良](https://photos.google.com/album/AF1QipMQn-dpiZBwtsEME7Z0HlHadl1BmUHyTz5YGlyK)，[京都](https://photos.google.com/album/AF1QipNPX3MlTcpo3Wn_FaqBBuC7jrDqjENaDMEiXC5p)
   -  2019 春：[澳门](https://photos.google.com/album/AF1QipO3rg8n8Gr8dAAXfMnFU68dL0qAHPDYgfbpbpen)一日游
-  -  2019 春：日本关西（[大阪](https://photos.google.com/album/AF1QipMTyhyuaYLgA80nJw0J9S09xpjB0aq4bFtxEBdV)，[奈良](https://photos.google.com/album/AF1QipMQn-dpiZBwtsEME7Z0HlHadl1BmUHyTz5YGlyK)，[京都](https://photos.google.com/album/AF1QipNPX3MlTcpo3Wn_FaqBBuC7jrDqjENaDMEiXC5p)）
+  -  2019 冬：[亚特兰大](https://photos.google.com/album/AF1QipMwWqVliE1uk5GSN69Vo6c3GnfkIHylmcWWZRmW)
+  -  2018 夏：希腊（[雅典](https://photos.google.com/album/AF1QipPaLGvX8GYpTxPdbAMG4MM3CQ38DJyKS7zHsFe8)，[圣托里尼](https://photos.google.com/album/AF1QipMdpn62yKph1gFbCFFBKRQwlBIPOQfV6qce37ia)）
+  -  2018 春：坎波迪亚（[暹粒](https://photos.google.com/album/AF1QipNA6gYhO3Qd81LICpn1ogEK0KuL8n54gI1dzm_P)，[西哈努克](https://photos.google.com/album/AF1QipOOOwwuHwv_z6Tx_g8Xg6ua7BYw9qaQpu-vEaR7)，[金边](https://photos.google.com/album/AF1QipMIV-gJKNMmLgcmnvzhpfPcyYp6ofRGtLRv-cd0)）
+  -  2018 冬：[张家口滑雪](https://photos.google.com/album/AF1QipOIrHgRa3puOP3B-GFfiXu2Qsht5mbzWgMOMXZC)，[北京](https://photos.google.com/album/AF1QipOgDAvNcnT5rUUx3pmRRaCF3r0MDIgALMcilj2J) 
+  -  2017 夏：泰国（[涛岛潜水](https://photos.google.com/album/AF1QipM9Q1BznIop-hNLPKAlYlS9_LGbjDeix9L07t2o)，[清迈](https://photos.google.com/album/AF1QipNihJsUV2kbgIOdhSj2QqmrwmRmUps1HrWfNKwi)），[新加坡](https://photos.google.com/album/AF1QipNdhnHVaUqx1M3sAs5R8rqRsZJIiwQhZbHkONct)
 
 ## 没有牛扒的土豆
-  -  2018 夏：[新加坡](https://photos.google.com/album/AF1QipO4VxLkNLpigWlG0npdVbHt2issaJHM0V3tRm0M)
-  -  2018 夏：[首尔](https://photos.google.com/album/AF1QipOiFE5jFwo4M2SdlGQUNiypPMsDv759x_SU05vu)
-  -  2018 夏（冬）：[奥克兰](https://photos.google.com/album/AF1QipO8LBIcvnCcw52-NztZTQKj7hJF1SjXa3otIwbM)
-  -  2018 秋：[纳什维尔](https://photos.google.com/album/AF1QipMqH246N0WiCYeT8OB0zZEqlkiZuwz6yr-TPLMa)
-  -  2018 秋：[那不勒斯](https://photos.google.com/album/AF1QipNWzXnl59rjiXVt-onkGVP9UKjB0yF5Uod9QYwW)
-  -  2018 秋：[伊斯坦布尔](https://photos.google.com/album/AF1QipNcwVtdMQKEaligp0NVQvNPnpUSZ170RA6Y9YeG)
   -  2018 冬（夏）：[墨尔本](https://photos.google.com/album/AF1QipMnzMkE343odaDn-b8mbNBPNAmNGJ2k6aMQZ5nP)
+  -  2018 秋：[伊斯坦布尔](https://photos.google.com/album/AF1QipNcwVtdMQKEaligp0NVQvNPnpUSZ170RA6Y9YeG)
+  -  2018 秋：[那不勒斯](https://photos.google.com/album/AF1QipNWzXnl59rjiXVt-onkGVP9UKjB0yF5Uod9QYwW)
+  -  2018 秋：[纳什维尔](https://photos.google.com/album/AF1QipMqH246N0WiCYeT8OB0zZEqlkiZuwz6yr-TPLMa)
+  -  2018 夏（冬）：[奥克兰](https://photos.google.com/album/AF1QipO8LBIcvnCcw52-NztZTQKj7hJF1SjXa3otIwbM)
+  -  2018 夏：[首尔](https://photos.google.com/album/AF1QipOiFE5jFwo4M2SdlGQUNiypPMsDv759x_SU05vu)
+  -  2018 夏：[新加坡](https://photos.google.com/album/AF1QipO4VxLkNLpigWlG0npdVbHt2issaJHM0V3tRm0M) 
 
 ## Hiking
   -  [麦理浩径第四段](https://photos.google.com/album/AF1QipPyQ7Lwp54M4jmSsh971vAAfBArOpNX_TXmpsCv)
