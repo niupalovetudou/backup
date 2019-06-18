@@ -1,12 +1,6 @@
-牛扒语录之做slides 的步骤：
-
-1. 理清思路，对要讲的 paper 很熟悉，必要时在纸上写下纲要
-2. 找个听众在白板上给他讲一遍
-3. 根据步骤2的反馈写slides. 
-
-Slides 的主要作用是节省写公式、条件、画图的时间，其次是提醒 speaker 该讲啥。内容上少写字，多用图。时间上： 步骤1,2 占 90%, 步骤3 占10%。报告中最不重要的就是 Slides 的格式，其次不重要的是 Slides的内容，重要的是 Speaker 说了啥以及说得好不好。 
-
 # News
+
+2019-06-18: 牛扒语录之[如何做幻灯片](https://github.com/niupalovetudou/blog/issues/1)。
 
 2019-06-14 to 16: [牛扒](https://photos.google.com/album/AF1QipNLIKIvEvABJjuxYdVYHwVY10s2jFzyFPnswjrZ)去厦门参加Asian Meeting (宝宝第一次一个人在家...)
 
