@@ -1,5 +1,7 @@
 # News
 
+2019-06-20: 牛扒138斤了😲
+
 2019-06-18: 牛扒语录之[如何做幻灯片](https://github.com/niupalovetudou/blog/issues/1)。
 
 2019-06-14 to 16: [牛扒](https://photos.google.com/album/AF1QipNLIKIvEvABJjuxYdVYHwVY10s2jFzyFPnswjrZ)去厦门参加Asian Meeting (宝宝第一次一个人在家...)
