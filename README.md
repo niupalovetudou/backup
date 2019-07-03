@@ -1,4 +1,5 @@
 # News
+2019-07-03: 牛牛宝宝看电影 《蜘蛛侠2》（好看！）+ 《上流寄生族》（没有想象中的好看...）
 
 2019-06-30: 宝宝生日，但牛牛不在宝宝身边😢 回来后补上！
 
@@ -50,6 +51,7 @@
   -  2017 夏：泰国（[涛岛潜水](https://photos.google.com/album/AF1QipM9Q1BznIop-hNLPKAlYlS9_LGbjDeix9L07t2o)，[清迈](https://photos.google.com/album/AF1QipNihJsUV2kbgIOdhSj2QqmrwmRmUps1HrWfNKwi)），[新加坡](https://photos.google.com/album/AF1QipNdhnHVaUqx1M3sAs5R8rqRsZJIiwQhZbHkONct)
 
 ## 没有牛扒的土豆
+  -  2019 夏：西雅图
   -  2018 冬（夏）：[墨尔本](https://photos.google.com/album/AF1QipMnzMkE343odaDn-b8mbNBPNAmNGJ2k6aMQZ5nP)
   -  2018 秋：[伊斯坦布尔](https://photos.google.com/album/AF1QipNcwVtdMQKEaligp0NVQvNPnpUSZ170RA6Y9YeG)
   -  2018 秋：[那不勒斯](https://photos.google.com/album/AF1QipNWzXnl59rjiXVt-onkGVP9UKjB0yF5Uod9QYwW)
