@@ -77,6 +77,18 @@
 ## 牛扒教土豆学代数
 - 土豆[笔记](Algebra.pdf)
 
+## LaTeX
+
+- 使用 cleveref 包的 `\cref{}`命令。
+  ```
+  \usepackage[colorlinks=true]{hyperref}
+  \usepackage[capitalise,nameinlink,noabbrev]{cleveref}
+  ```
+  注意应**先使用** hyperref 包，再调用 cleveref.
+
+
+
+
 
 # 备忘录
 
