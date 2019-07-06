@@ -79,14 +79,14 @@
 
 ## LaTeX
 
+- [LaTeX Book](https://latexbook.netlify.com/).
+
 - 使用 cleveref 包的 `\cref{}`命令。
   ```
   \usepackage[colorlinks=true,breaklinks=true]{hyperref}
   \usepackage[capitalise,nameinlink,noabbrev,sort]{cleveref}
   ```
   注意应**先使用** hyperref 包，再调用 cleveref.
-
-
 
 
 
