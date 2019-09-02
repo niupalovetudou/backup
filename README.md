@@ -1,5 +1,11 @@
 # News
 
+2019-09-01: ✈️返香港机场。牛牛去学校，宝宝去武汉。希望宝宝在武汉好好科研和上课。虽然不能每天见面，但牛牛的心永远和宝宝在一起💕
+
+2019-08-27: 伦敦🚅去曼切斯特。会议在 U Manchester, 宝宝说她的 session 人很少... 去了科学产业博物馆，曼大图书馆，和同志村。在同志村 get 同[图灵雕像](https://www.google.com/search?q=alan+turing+memorial+manchester&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiG0s7okLLkAhUaE4gKHZr_A7YQ_AUIESgB&biw=1224&bih=747)的自拍合影。 
+
+2019-08-21: 出发✈️去伦敦。去了海德公园，大英博物馆，国家美术馆，看音乐剧 Adrian Mole, 塔桥，路过了白金汉宫，国会大厦和西敏寺（虽然宝宝觉得并没有路过）... 看到了[维修中的大本钟。](https://www.theguardian.com/politics/2017/aug/14/big-ben-silenced-four-years-maintenance-chimes)
+
 2019-08-14: 宝宝晚上去看了容祖儿演唱。今天和牛牛睡~💃🕺
 
 2019-08-09: 搬家结束。宝宝辛苦了！💕
