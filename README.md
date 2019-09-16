@@ -1,56 +1,14 @@
 # News
 
+2019-09-14: 宝宝和牛牛在尖沙咀 ATUN 食下午茶，味道不错。计划再来吃一回晚饭。
+
+2019-09-10: 宝宝来武汉找牛牛。开心！
+
 2019-09-01: ✈️返香港机场。牛牛去学校，宝宝去武汉。希望宝宝在武汉好好科研和上课。虽然不能每天见面，但牛牛的心永远和宝宝在一起💕
 
 2019-08-27: 伦敦🚅去曼切斯特。会议在 U Manchester, 宝宝说她的 session 人很少... 去了科学产业博物馆，曼大图书馆，和同志村。在同志村 get 同[图灵雕像](https://www.google.com/search?q=alan+turing+memorial+manchester&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiG0s7okLLkAhUaE4gKHZr_A7YQ_AUIESgB&biw=1224&bih=747)的自拍合影。 
 
 2019-08-21: 出发✈️去伦敦。去了海德公园，大英博物馆，国家美术馆，看音乐剧 Adrian Mole, 塔桥，路过了白金汉宫，国会大厦和西敏寺（虽然宝宝觉得并没有路过）... 看到了[维修中的大本钟。](https://www.theguardian.com/politics/2017/aug/14/big-ben-silenced-four-years-maintenance-chimes)
-
-2019-08-14: 宝宝晚上去看了容祖儿演唱。今天和牛牛睡~💃🕺
-
-2019-08-09: 搬家结束。宝宝辛苦了！💕
-
-2019-07-09: 牛宝🚄来武汉。牛牛带宝宝吃“完爆八方云集”的哈尔滨🥟馆。
-
-2019-07-03: 牛牛宝宝看电影 《蜘蛛侠2》（好看！）+ 《上流寄生族》（没有想象中的好看...）
-
-2019-06-30: 宝宝生日，但牛牛不在宝宝身边😢 回来后补上！
-
-2019-06-23: 宝宝搭晚上十点飞机去了 Seattle。结果宝宝到了就出去玩，给牛牛发了[玻璃照片](https://www.flickr.com/photos/182304250@N08/edit?cameraroll)。
-
-2019-06-22: 牛扒土豆和小伙伴们吃火锅~ 土豆密室逃脱成功（哲哲一如既往出色发挥） + 电影《Pet Pet當家》：宠物萌萌的 轻松愉快 
-
-2019-06-21: 土豆游泳~
-
-2019-06-20: 牛扒带土豆健身（牛扒138斤了😲）
-
-2019-06-18: 牛扒语录之[如何做幻灯片](https://github.com/niupalovetudou/blog/issues/1)。
-
-2019-06-14 to 16: [牛扒](https://photos.google.com/album/AF1QipNLIKIvEvABJjuxYdVYHwVY10s2jFzyFPnswjrZ)去厦门参加Asian Meeting (宝宝第一次一个人在家...)
-
-2019-06-11 to 13: IO Workshop
--  Search (Wolinsky 1986)
--  Captive/contestable customers 
--  Fee structure
--  Platform
-
-2019-06-10: 电影《2001太空漫游》34:14
-
-2019-06-08: 游泳~
-
-2019-06-07: 一大早赶去城大听Morris的[talk](Morris.md)
-
-2019-06-06: 剧本杀《老烟枪》，牛扒是凶手
-
-2019-06-04: 终于游上了泳，累...
-
-2019-06-03: 电影《爆裂鼓手》：结构过于精巧，反倒不真。
-
-2019-06-03: 牛扒已经从 133.5 斤的牛长成了 134.8 斤的牛了~
-
-2019-06-02: 电影《Once》：牛扒觉得电影不错，演员很青涩。土豆觉着故事有点纠结，男主撩女主的同时忘不了旧情人略渣。
-
-2019-06-01: [龙脊hiking](https://photos.google.com/album/AF1QipPBdGkDEfmdCgrbwE1g55SKLP92BSfPz8-kNmA4)~~ + 电影《Sing Street》：结尾过于上扬
 
 # 爱玩的牛扒和土豆
 
@@ -133,6 +91,53 @@
     - 标志事件：搭乘北京到张家口的大巴
 
 ## 日常
+
+2019-08-14: 宝宝晚上去看了容祖儿演唱。今天和牛牛睡~💃🕺
+
+2019-08-09: 搬家结束。宝宝辛苦了！💕
+
+2019-07-09: 牛宝🚄来武汉。牛牛带宝宝吃“完爆八方云集”的哈尔滨🥟馆。
+
+2019-07-03: 牛牛宝宝看电影 《蜘蛛侠2》（好看！）+ 《上流寄生族》（没有想象中的好看...）
+
+2019-06-30: 宝宝生日，但牛牛不在宝宝身边😢 回来后补上！
+
+2019-06-23: 宝宝搭晚上十点飞机去了 Seattle。结果宝宝到了就出去玩，给牛牛发了[玻璃照片](https://www.flickr.com/photos/182304250@N08/edit?cameraroll)。
+
+2019-06-22: 牛扒土豆和小伙伴们吃火锅~ 土豆密室逃脱成功（哲哲一如既往出色发挥） + 电影《Pet Pet當家》：宠物萌萌的 轻松愉快 
+
+2019-06-21: 土豆游泳~
+
+2019-06-20: 牛扒带土豆健身（牛扒138斤了😲）
+
+2019-06-18: 牛扒语录之[如何做幻灯片](https://github.com/niupalovetudou/blog/issues/1)。
+
+2019-06-14 to 16: [牛扒](https://photos.google.com/album/AF1QipNLIKIvEvABJjuxYdVYHwVY10s2jFzyFPnswjrZ)去厦门参加Asian Meeting (宝宝第一次一个人在家...)
+
+2019-06-11 to 13: IO Workshop
+-  Search (Wolinsky 1986)
+-  Captive/contestable customers 
+-  Fee structure
+-  Platform
+
+2019-06-10: 电影《2001太空漫游》34:14
+
+2019-06-08: 游泳~
+
+2019-06-07: 一大早赶去城大听Morris的[talk](Morris.md)
+
+2019-06-06: 剧本杀《老烟枪》，牛扒是凶手
+
+2019-06-04: 终于游上了泳，累...
+
+2019-06-03: 电影《爆裂鼓手》：结构过于精巧，反倒不真。
+
+2019-06-03: 牛扒已经从 133.5 斤的牛长成了 134.8 斤的牛了~
+
+2019-06-02: 电影《Once》：牛扒觉得电影不错，演员很青涩。土豆觉着故事有点纠结，男主撩女主的同时忘不了旧情人略渣。
+
+2019-06-01: [龙脊hiking](https://photos.google.com/album/AF1QipPBdGkDEfmdCgrbwE1g55SKLP92BSfPz8-kNmA4)~~ + 电影《Sing Street》：结尾过于上扬
+
 2019-05-25: [维港夜游钓墨鱼](https://photos.google.com/album/AF1QipNiV0pePqp-jiW2flVqQ_Rucq4jzoSJxhXSu0mO)~宝宝有认真钓，然而并没有收获...
 
 2019-05-20: 一起看《调音师》，有一只傻牛🐮总是吓宝宝，哼~ 电影好看，推荐。
