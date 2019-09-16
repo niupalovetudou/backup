@@ -1,3 +1,1 @@
-# 宝宝不明所以的笔记...
 
-![Morris](https://user-images.githubusercontent.com/45391046/59156491-ffbd4180-8ace-11e9-8eca-bc672ae507ff.jpg)
