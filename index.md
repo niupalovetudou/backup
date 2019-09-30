@@ -1,5 +1,9 @@
 # News
 
+2019-10-01: 牛牛去武汉找宝宝 ❥(^_-)
+
+2019-09-30: 一些关于[用 TikZ 绘图的技巧。](https://niupalovetudou.github.io/pdf/no_absolute_coordinates.pdf)
+
 2019-09-14: 宝宝和[牛牛](https://user-images.githubusercontent.com/45391046/65128508-2c68e980-da2c-11e9-905d-a86df46956d4.jpg)在尖沙咀 ATUM 食[下午茶](https://user-images.githubusercontent.com/45391046/65128530-37237e80-da2c-11e9-9548-ed5857a09c11.jpg)，味道不错。计划再来吃一回晚饭。
 
 2019-09-10: 宝宝来香港找牛牛。开心！
