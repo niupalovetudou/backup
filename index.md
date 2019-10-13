@@ -1,5 +1,7 @@
 # News
 
+2019-10-01: 牛牛71.8公斤了 哈哈哈~
+
 2019-10-01: 牛牛去武汉找宝宝 ❥(^_-)
 
 2019-09-30: 一些关于[用 TikZ 绘图的技巧。](https://niupalovetudou.github.io/pdf/no_absolute_coordinates.pdf)
