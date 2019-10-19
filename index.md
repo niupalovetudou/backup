@@ -21,7 +21,7 @@
 # 爱玩的牛扒和土豆
 
 ## 一起旅行
-  -  2019 夏：英国伦敦，曼彻斯特
+  -  2019 夏：英国（伦敦，曼彻斯特）
   -  2019 春：日本关西（[大阪](https://photos.google.com/album/AF1QipMTyhyuaYLgA80nJw0J9S09xpjB0aq4bFtxEBdV)，[奈良](https://photos.google.com/album/AF1QipMQn-dpiZBwtsEME7Z0HlHadl1BmUHyTz5YGlyK)，[京都](https://photos.google.com/album/AF1QipNPX3MlTcpo3Wn_FaqBBuC7jrDqjENaDMEiXC5p)）
   -  2019 春：[澳门](https://photos.google.com/album/AF1QipO3rg8n8Gr8dAAXfMnFU68dL0qAHPDYgfbpbpen)一日游
   -  2019 冬：[亚特兰大](https://photos.google.com/album/AF1QipMwWqVliE1uk5GSN69Vo6c3GnfkIHylmcWWZRmW)
@@ -81,6 +81,7 @@
 ## 土豆🥔备忘录
   1.  牛扒变成气鼓鼓牛的时候虽然很好笑，但是要忍住，并抱抱牛
   1.  牛扒有的时候喜欢一个人呆着，不要打扰牛
+  1.  宝宝来姨妈的时候容易情绪激动，这个时候要提醒自己正处于非正常状态，并尽量保持冷静，少把不良情绪带给牛牛 （2019-10-10）
 
 ## 牛扒金句
 - 土豆什么都好，就是... (太粘人，爱哭哭，...)
