@@ -2,13 +2,13 @@
 
 2019-17-06: 老婆晚安~ 老公晚安
 
-2019-11-28：牛牛回香港了... 宝宝过几天就去找牛牛~
+2019-11-28: 牛牛回香港了... 宝宝过几天就去找牛牛~
 
-2019-11-27：701天快乐！牛牛给宝宝做土豆牛腩和番茄炒蛋
+2019-11-27: 701天快乐！牛牛给宝宝做土豆牛腩和番茄炒蛋
 
-2019-11-17：牛牛从澳洲回来直接过来找宝宝啦，开心~
+2019-11-17: 牛牛从澳洲回来直接过来找宝宝啦，开心~
 
-2019-11-12：牛牛去澳洲参加Workshop
+2019-11-12: 牛牛去澳洲参加Workshop
 
 2019-11-08: 牛牛不开心😭
 
@@ -37,24 +37,24 @@
 # 爱玩的牛扒和土豆
 
 ## 一起旅行
-  -  2019 夏：英国（伦敦，曼彻斯特）
-  -  2019 春：日本关西（[大阪](https://photos.google.com/album/AF1QipMTyhyuaYLgA80nJw0J9S09xpjB0aq4bFtxEBdV)，[奈良](https://photos.google.com/album/AF1QipMQn-dpiZBwtsEME7Z0HlHadl1BmUHyTz5YGlyK)，[京都](https://photos.google.com/album/AF1QipNPX3MlTcpo3Wn_FaqBBuC7jrDqjENaDMEiXC5p)）
-  -  2019 春：[澳门](https://photos.google.com/album/AF1QipO3rg8n8Gr8dAAXfMnFU68dL0qAHPDYgfbpbpen)一日游
-  -  2019 冬：[亚特兰大](https://photos.google.com/album/AF1QipMwWqVliE1uk5GSN69Vo6c3GnfkIHylmcWWZRmW)
-  -  2018 夏：希腊（[雅典](https://photos.google.com/album/AF1QipPaLGvX8GYpTxPdbAMG4MM3CQ38DJyKS7zHsFe8)，[圣托里尼](https://photos.google.com/album/AF1QipMdpn62yKph1gFbCFFBKRQwlBIPOQfV6qce37ia)）
-  -  2018 春：坎波迪亚（[暹粒](https://photos.google.com/album/AF1QipNA6gYhO3Qd81LICpn1ogEK0KuL8n54gI1dzm_P)，[西哈努克](https://photos.google.com/album/AF1QipOOOwwuHwv_z6Tx_g8Xg6ua7BYw9qaQpu-vEaR7)，[金边](https://photos.google.com/album/AF1QipMIV-gJKNMmLgcmnvzhpfPcyYp6ofRGtLRv-cd0)）
-  -  2018 冬：[张家口滑雪](https://photos.google.com/album/AF1QipOIrHgRa3puOP3B-GFfiXu2Qsht5mbzWgMOMXZC)，[北京](https://photos.google.com/album/AF1QipOgDAvNcnT5rUUx3pmRRaCF3r0MDIgALMcilj2J) 
-  -  2017 夏：泰国（[涛岛潜水](https://photos.google.com/album/AF1QipM9Q1BznIop-hNLPKAlYlS9_LGbjDeix9L07t2o)，[清迈](https://photos.google.com/album/AF1QipNihJsUV2kbgIOdhSj2QqmrwmRmUps1HrWfNKwi)），[新加坡](https://photos.google.com/album/AF1QipNdhnHVaUqx1M3sAs5R8rqRsZJIiwQhZbHkONct)
+  -  2019 夏: 英国（伦敦，曼彻斯特）
+  -  2019 春: 日本关西（[大阪](https://photos.google.com/album/AF1QipMTyhyuaYLgA80nJw0J9S09xpjB0aq4bFtxEBdV)，[奈良](https://photos.google.com/album/AF1QipMQn-dpiZBwtsEME7Z0HlHadl1BmUHyTz5YGlyK)，[京都](https://photos.google.com/album/AF1QipNPX3MlTcpo3Wn_FaqBBuC7jrDqjENaDMEiXC5p)）
+  -  2019 春: [澳门](https://photos.google.com/album/AF1QipO3rg8n8Gr8dAAXfMnFU68dL0qAHPDYgfbpbpen)一日游
+  -  2019 冬: [亚特兰大](https://photos.google.com/album/AF1QipMwWqVliE1uk5GSN69Vo6c3GnfkIHylmcWWZRmW)
+  -  2018 夏: 希腊（[雅典](https://photos.google.com/album/AF1QipPaLGvX8GYpTxPdbAMG4MM3CQ38DJyKS7zHsFe8)，[圣托里尼](https://photos.google.com/album/AF1QipMdpn62yKph1gFbCFFBKRQwlBIPOQfV6qce37ia)）
+  -  2018 春: 坎波迪亚（[暹粒](https://photos.google.com/album/AF1QipNA6gYhO3Qd81LICpn1ogEK0KuL8n54gI1dzm_P)，[西哈努克](https://photos.google.com/album/AF1QipOOOwwuHwv_z6Tx_g8Xg6ua7BYw9qaQpu-vEaR7)，[金边](https://photos.google.com/album/AF1QipMIV-gJKNMmLgcmnvzhpfPcyYp6ofRGtLRv-cd0)）
+  -  2018 冬: [张家口滑雪](https://photos.google.com/album/AF1QipOIrHgRa3puOP3B-GFfiXu2Qsht5mbzWgMOMXZC)，[北京](https://photos.google.com/album/AF1QipOgDAvNcnT5rUUx3pmRRaCF3r0MDIgALMcilj2J) 
+  -  2017 夏: 泰国（[涛岛潜水](https://photos.google.com/album/AF1QipM9Q1BznIop-hNLPKAlYlS9_LGbjDeix9L07t2o)，[清迈](https://photos.google.com/album/AF1QipNihJsUV2kbgIOdhSj2QqmrwmRmUps1HrWfNKwi)），[新加坡](https://photos.google.com/album/AF1QipNdhnHVaUqx1M3sAs5R8rqRsZJIiwQhZbHkONct)
 
 ## 没有牛扒的土豆
-  -  2019 夏：西雅图
-  -  2018 冬（夏）：[墨尔本](https://photos.google.com/album/AF1QipMnzMkE343odaDn-b8mbNBPNAmNGJ2k6aMQZ5nP)
-  -  2018 秋：[伊斯坦布尔](https://photos.google.com/album/AF1QipNcwVtdMQKEaligp0NVQvNPnpUSZ170RA6Y9YeG)
-  -  2018 秋：[那不勒斯](https://photos.google.com/album/AF1QipNWzXnl59rjiXVt-onkGVP9UKjB0yF5Uod9QYwW)
-  -  2018 秋：[纳什维尔](https://photos.google.com/album/AF1QipMqH246N0WiCYeT8OB0zZEqlkiZuwz6yr-TPLMa)
-  -  2018 夏（冬）：[奥克兰](https://photos.google.com/album/AF1QipO8LBIcvnCcw52-NztZTQKj7hJF1SjXa3otIwbM)
-  -  2018 夏：[首尔](https://photos.google.com/album/AF1QipOiFE5jFwo4M2SdlGQUNiypPMsDv759x_SU05vu)
-  -  2018 夏：[新加坡](https://photos.google.com/album/AF1QipO4VxLkNLpigWlG0npdVbHt2issaJHM0V3tRm0M) 
+  -  2019 夏: 西雅图
+  -  2018 冬（夏）: [墨尔本](https://photos.google.com/album/AF1QipMnzMkE343odaDn-b8mbNBPNAmNGJ2k6aMQZ5nP)
+  -  2018 秋: [伊斯坦布尔](https://photos.google.com/album/AF1QipNcwVtdMQKEaligp0NVQvNPnpUSZ170RA6Y9YeG)
+  -  2018 秋: [那不勒斯](https://photos.google.com/album/AF1QipNWzXnl59rjiXVt-onkGVP9UKjB0yF5Uod9QYwW)
+  -  2018 秋: [纳什维尔](https://photos.google.com/album/AF1QipMqH246N0WiCYeT8OB0zZEqlkiZuwz6yr-TPLMa)
+  -  2018 夏（冬）: [奥克兰](https://photos.google.com/album/AF1QipO8LBIcvnCcw52-NztZTQKj7hJF1SjXa3otIwbM)
+  -  2018 夏: [首尔](https://photos.google.com/album/AF1QipOiFE5jFwo4M2SdlGQUNiypPMsDv759x_SU05vu)
+  -  2018 夏: [新加坡](https://photos.google.com/album/AF1QipO4VxLkNLpigWlG0npdVbHt2issaJHM0V3tRm0M) 
 
 ## Hiking
   -  [麦理浩径第四段](https://photos.google.com/album/AF1QipPyQ7Lwp54M4jmSsh971vAAfBArOpNX_TXmpsCv)
@@ -114,7 +114,7 @@
 ## 开始
   - 土豆接受了牛扒的爱
   - 经研究，两人决定将开始的日子定为 2017/12/26。
-    - 标志事件：搭乘北京到张家口的大巴
+    - 标志事件: 搭乘北京到张家口的大巴
 
 ## 日常
 
@@ -130,7 +130,7 @@
 
 2019-06-23: 宝宝搭晚上十点飞机去了 Seattle。结果宝宝到了就出去玩，给牛牛发了[玻璃照片](https://www.flickr.com/photos/182304250@N08/edit?cameraroll)。
 
-2019-06-22: 牛扒土豆和小伙伴们吃火锅~ 土豆密室逃脱成功（哲哲一如既往出色发挥） + 电影《Pet Pet當家》：宠物萌萌的 轻松愉快 
+2019-06-22: 牛扒土豆和小伙伴们吃火锅~ 土豆密室逃脱成功（哲哲一如既往出色发挥） + 电影《Pet Pet當家》: 宠物萌萌的 轻松愉快 
 
 2019-06-21: 土豆游泳~
 
@@ -156,13 +156,13 @@
 
 2019-06-04: 终于游上了泳，累...
 
-2019-06-03: 电影《爆裂鼓手》：结构过于精巧，反倒不真。
+2019-06-03: 电影《爆裂鼓手》: 结构过于精巧，反倒不真。
 
 2019-06-03: 牛扒已经从 133.5 斤的牛长成了 134.8 斤的牛了~
 
-2019-06-02: 电影《Once》：牛扒觉得电影不错，演员很青涩。土豆觉着故事有点纠结，男主撩女主的同时忘不了旧情人略渣。
+2019-06-02: 电影《Once》: 牛扒觉得电影不错，演员很青涩。土豆觉着故事有点纠结，男主撩女主的同时忘不了旧情人略渣。
 
-2019-06-01: [龙脊hiking](https://photos.google.com/album/AF1QipPBdGkDEfmdCgrbwE1g55SKLP92BSfPz8-kNmA4)~~ + 电影《Sing Street》：结尾过于上扬
+2019-06-01: [龙脊hiking](https://photos.google.com/album/AF1QipPBdGkDEfmdCgrbwE1g55SKLP92BSfPz8-kNmA4)~~ + 电影《Sing Street》: 结尾过于上扬
 
 2019-05-25: [维港夜游钓墨鱼](https://photos.google.com/album/AF1QipNiV0pePqp-jiW2flVqQ_Rucq4jzoSJxhXSu0mO)~宝宝有认真钓，然而并没有收获...
 
@@ -194,7 +194,7 @@
 
 Tips on presentation
   1.  最重要的写在前面: _Know your time constraint_ and _practice more_.
-      - Presentation Slides 应该准备两份：30min 的版本（20 - 30 pages） 和60min 的版本（40 - 50 pages）。
+      - Presentation Slides 应该准备两份: 30min 的版本（20 - 30 pages） 和60min 的版本（40 - 50 pages）。
       - 在安静的地方一个人练习，也可以找牛扒🐮练习。
   1.  Slides 尽量精简。 观众的注意力应该被你*说的内容* 吸引，而不是 Slides.
   1.  Use figures whenever possible.
