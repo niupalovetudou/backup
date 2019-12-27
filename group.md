@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Reading Group"
+description: "Let Knowledge Flourish"
+---
+
 ## Schedule
 
 2019-12-29: "Narrow thinking" by Niu
