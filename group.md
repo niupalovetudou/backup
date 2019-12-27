@@ -1,7 +1,6 @@
 ---
-layout: default
-title: "Reading Group"
-description: "Let Knowledge Flourish"
+page.title: "Reading Group"
+page.description: "Let Knowledge Flourish"
 ---
 
 ## Schedule
