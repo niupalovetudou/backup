@@ -6,6 +6,9 @@
 
 ## Reading list
 
+### Xiong's recommendations
+
+- TBC
 
 ### Niu's recommendations
 
@@ -13,7 +16,7 @@ Robust mechanism design
 
 - Carroll on linear contracts
 
-- Bergemann-Brooks-Morris (BBM) agenda on auctions
+- Bergemann-Brooks-Morris (BBM) agenda on auctions: BBM (2017, ecma), BBM (2019, aer)
 
 - Survey by Carroll: https://web.stanford.edu/~gdc/survey.pdf
 
@@ -38,7 +41,6 @@ New social choice papers that give constructive suggestions rather than impossib
 It might not be a bad idea to learn some works in that field.
 
 
-### Xiong's recommendations
 
 
 
