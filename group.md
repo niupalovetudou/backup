@@ -44,9 +44,3 @@ New social choice papers that give constructive suggestions rather than impossib
 
 - I am not familiar with the "applications of mechanism design to social choice." 
 It might not be a bad idea to learn some works in that field.
-
-
-
-
-
-
