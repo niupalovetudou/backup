@@ -28,7 +28,7 @@ Robust mechanism design
 E(P) > E(Q) is equivalent to P+X first-order dominates Q+X for some r.v. X.
 
 - Pomatto, Strack, and Tamuz. [arxiv. 1807.06927.](https://arxiv.org/abs/1807.06927) 
-It is somewhat surprising that a fundamental result like this was not proved until the 1960s.
+A fundamental result. But not proved until the 1960s.
 
 How should a monopolist sell multiple goods to a single buyer?
 
@@ -44,3 +44,9 @@ New social choice papers that give constructive suggestions rather than impossib
 
 - I am not familiar with the "applications of mechanism design to social choice." 
 It might not be a bad idea to learn some works in that field.
+
+(Old) decision theory
+
+- [Lecture notes summary](https://www.kellogg.northwestern.edu/faculty/antic/notes/Gul%20Lectures%20Summary.pdf) by Gul
+
+- [How (not) to do decision theory](http://faculty.wcas.northwestern.edu/~dekel/papers/How%20(Not)%20to%20Do%20Decision%20Theory.pdf) by Dekel and Lipman
