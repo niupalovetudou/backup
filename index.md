@@ -5,6 +5,8 @@ description: 这里生活着三种动物：牛🐮，马鸭🦆，和土豆熊�
 
 # News
 
+2020-05-04: 五四环保运动。
+
 2020-01-10: Back to mainland. 
 
 2020-01-09: 计算机历史博物馆，牛牛发现了如何使用“打卡机” (Type 001 Mechanical Card Punch). 机智的宝宝通关了编程小游戏。随后去了 Google Park 和斯坦福，这是 Uber 费用最高的一天。SLS 很破，Rodin 雕塑馆很不错，看到了 Le Penseur 和 Les Bourgeois de Calais. 临走前还去了现代艺术馆。刚好周四开门到 9PM. Lucky! 
