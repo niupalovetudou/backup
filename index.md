@@ -5,6 +5,8 @@ description: 这里生活着三种动物：牛🐮，马鸭🦆，和土豆熊�
 
 # News
 
+2020-05-10: 通过暖宝宝法修好了 iPad Pencil. 牛牛买了一个 apple 账号安装 notability, 顺便下了不少游戏。然后土豆就一直玩牛牛的 Pad. 
+
 2020-05-04: 五四环保运动。
 
 2020-01-10: Back to mainland. 
