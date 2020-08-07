@@ -5,6 +5,30 @@ description: 这里生活着三种动物：牛🐮，马鸭🦆，和土豆熊�
 
 # News
 
+2020-08-03: 西安点播影院。原本的大雁塔之行由于天气过热改为室内活动，看了《The King of Comedy》和《Upgrade》。西安 --> 宁波
+
+2020-08-02: 鸣沙山月牙泉，莫高窟。 爬到鸣沙山顶往下看，很舒服。莫高窟人超多，且时间紧，看得很随意。敦煌 --> 西安
+
+2020-08-01: 阳关，鸣沙山沙漠露营。在阳关拍了许多傻傻的照片。沙漠露营很赞，沙地摩托、滑沙、篝火、日落、日出，可惜没能看到满天的繁星。
+
+2020-07-31: 南八仙雅丹，最美公路， 东台吉乃尔湖，水上雅丹。[雅丹地貌](https://zh.wikipedia.org/wiki/%E9%9B%85%E4%B8%B9%E5%9C%B0%E8%B2%8C)很壮观。 东台吉乃尔湖是美的，不过总体体验不如东南亚的海滩。
+
+2020-07-30: 德令哈海子纪念馆，大柴旦翡翠湖。海子纪念馆附近的河碧绿碧绿的，很漂亮。中午的牦牛大骨好吃。 
+
+2020-07-29: 开始4日租车西北行。第一日青海湖，茶卡盐湖。沿着环湖第一日的路线到达黑马河，转而向茶卡盐湖行进。在草原上看到了超级多萌萌的高原鼠兔 (plateau pika)。茶卡盐湖一望无际。大风，多云，海天相接，白茫茫的一片。
+
+2020-07-28: 环湖第三日。 天气放晴。这一段满是草原，油菜花，和遍地的牛羊。顺利回到西海，哲哲也到了。
+
+2020-07-27: 环湖第二日。早起看日出，冷。可惜多云，没有很惊艳，像海上日出。补了个觉后继续赶路，天上满是云，风大，间或有雨，巨冷。这是离湖最近的一段，天晴的话会更美吧。宿刚察。晚上吃了藏餐，味道还不错。
+
+2020-07-26: 环湖第一日。油菜花田，草原，沙漠，青海湖。变身红鼻牛（熊）。宿黑马河。
+
+2020-07-25: 西宁 --> 西海。租到摩托车，期待环湖之旅~
+
+2020-07-24: 甘肃博物馆，黄河漫步，中山桥，白塔山公园，秦腔博物馆。兰州 --> 西宁。手抓肉好吃😋
+
+2020-07-23: 宁波 --> 兰州，开启西北之旅~ 午餐兰州牛肉面，面多肉少... 晚餐烤肉，牛牛钟爱烤饼。逛了书店和兰州中心。 
+
 2020-05-14: (i) 研究了 Bandit problem. (ii) Tudou's
 [art work.](https://user-images.githubusercontent.com/45391046/81949817-d63d5c00-9635-11ea-93eb-d747251ad01a.png)  
 
@@ -96,6 +120,8 @@ description: 这里生活着三种动物：牛🐮，马鸭🦆，和土豆熊�
 # 爱玩的牛扒和土豆
 
 ## 一起旅行
+  -  2020 夏: 西北 (兰州，西宁，敦煌)
+  -  2020 冬: 美国（LA，SD，三番）
   -  2019 夏: 英国（伦敦，曼彻斯特）
   -  2019 春: 日本关西（[大阪](https://photos.google.com/album/AF1QipMTyhyuaYLgA80nJw0J9S09xpjB0aq4bFtxEBdV)，[奈良](https://photos.google.com/album/AF1QipMQn-dpiZBwtsEME7Z0HlHadl1BmUHyTz5YGlyK)，[京都](https://photos.google.com/album/AF1QipNPX3MlTcpo3Wn_FaqBBuC7jrDqjENaDMEiXC5p)）
   -  2019 春: [澳门](https://photos.google.com/album/AF1QipO3rg8n8Gr8dAAXfMnFU68dL0qAHPDYgfbpbpen)一日游
@@ -106,6 +132,7 @@ description: 这里生活着三种动物：牛🐮，马鸭🦆，和土豆熊�
   -  2017 夏: 泰国（[涛岛潜水](https://photos.google.com/album/AF1QipM9Q1BznIop-hNLPKAlYlS9_LGbjDeix9L07t2o)，[清迈](https://photos.google.com/album/AF1QipNihJsUV2kbgIOdhSj2QqmrwmRmUps1HrWfNKwi)），[新加坡](https://photos.google.com/album/AF1QipNdhnHVaUqx1M3sAs5R8rqRsZJIiwQhZbHkONct)
 
 ## 没有牛扒的土豆
+  -  2020 冬: 日本东京
   -  2019 夏: 西雅图
   -  2018 冬（夏）: [墨尔本](https://photos.google.com/album/AF1QipMnzMkE343odaDn-b8mbNBPNAmNGJ2k6aMQZ5nP)
   -  2018 秋: [伊斯坦布尔](https://photos.google.com/album/AF1QipNcwVtdMQKEaligp0NVQvNPnpUSZ170RA6Y9YeG)
