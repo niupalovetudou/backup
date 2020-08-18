@@ -3,6 +3,12 @@ title: 土豆 ❤️ 牛扒
 description: 这里生活着三种动物：牛🐮，马鸭🦆，和土豆熊🐻
 ---
 
+## Links: 
+
+- [私人记事 (牛熊香港资金)](https://github.com/niupalovetudou/private)
+
+- [Reading Group](https://github.com/niupalovetudou/niupalovetudou.github.io/blob/master/group.md)
+
 # News
 
 2020-08-16: 游泳~ 怀念科大干净、温暖且人少的泳池了
