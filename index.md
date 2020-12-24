@@ -5,11 +5,14 @@ description: 这里生活着三种动物：牛🐮，马鸭🦆，和土豆熊�
 
 ## Links: 
 
-- [私人记事 (牛熊香港资金)](https://github.com/niupalovetudou/private) Require GitHub Login
-
 - [Reading Group](https://github.com/niupalovetudou/niupalovetudou.github.io/blob/master/group.md)
 
 # News
+
+2020-12-24: 听了一个 talk. Early-Career Discrimination: Spiraling or Self-Correcting?
+关于 bandit problem 和 matching. 然而宝宝在开始就已看穿了一切 😎
+
+2020-12-01: Wedding :)
 
 2020-08-19: 阿拉的海。
 
