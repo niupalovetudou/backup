@@ -8,6 +8,8 @@ description: 这里生活着三种动物：牛🐮，马鸭🦆，和土豆熊�
 - [Reading Group](https://github.com/niupalovetudou/niupalovetudou.github.io/blob/master/group.md)
 
 TODO
+
+- 210107: Weinstein and Yildiz on [the structure of rationalizability](https://economics.mit.edu/files/1257)
 - 210104: Read Morris 三连发 (hop, critique of CPA, and the [BP paper with a talk at Caltech](https://economics.mit.edu/faculty/semorris/presentations))
 
 # News
