@@ -5,7 +5,11 @@ description: Let Knowledge Flourish
 
 ## Schedule
 
-2019-12-29: "Narrow thinking" by Niu
+- 2021-01-14: Book *A promised land.*
+- 2021-01-10: Notes on “Learning Microeconometrics with R” 
+- 2021-01-07: Weinstein and Yildiz on [the structure of rationalizability](https://economics.mit.edu/files/1257)
+- 2021-01-04: Read Morris 三连发 (hop, critique of CPA, and the [BP paper with a talk at Caltech](https://economics.mit.edu/faculty/semorris/presentations))
+- 2019-12-29: "Narrow thinking" by Niu
 
 
 
