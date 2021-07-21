@@ -5,6 +5,7 @@ description: 这里生活着三种动物：牛🐮，马鸭🦆，和土豆熊�
 
 # Reading Group (Dynamic Information Design)
 ## TODO:
+- Doval and Ely (Econometrica 2020) "Sequential Information Design"
 
 ## Papers covered: 
 - 2021-07-21: Eliaz and Spiegler (AER 2020) "A Model of Competing Narratives"
