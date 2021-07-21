@@ -3,9 +3,16 @@ title: 土豆 ❤️ 牛扒
 description: 这里生活着三种动物：牛🐮，马鸭🦆，和土豆熊🐻
 ---
 
-## Links: 
+# Reading Group (Dynamic Information Design)
+## TODO:
 
-- [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.github.io/blob/master/group.md)
+## Papers covered: 
+- 2021-07-21: Eliaz and Spiegler (AER 2020) "A Model of Competing Narratives"
+- 2021-07-19: Bergemann and Morris (AER 2015) "The Limits of Price Discrimination"
+- Survey: Bergemann and Morris (2019), Kamenica (2019)
+
+
+Past: [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.github.io/blob/master/group.md)
 
 
 # News
