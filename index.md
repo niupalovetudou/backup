@@ -23,9 +23,9 @@ Past: [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.gi
 # 爱玩的牛扒和土豆
 
 ## 一起旅行
-  -  2020 夏: 西北 (兰州，西宁，敦煌)
+  -  2020 夏: 西北 (兰州，西宁，青海湖，敦煌)
   -  2020 冬: 美国（LA，SD，三番）
-  -  2019 夏: 英国（伦敦，曼彻斯特）
+  -  2019 夏: 英国（[伦敦](https://photos.google.com/album/AF1QipMZ-VXHgVNYgKYYkWhux4J0BDMcYB0puApHzwio)，曼彻斯特）
   -  2019 春: 日本关西（[大阪](https://photos.google.com/album/AF1QipMTyhyuaYLgA80nJw0J9S09xpjB0aq4bFtxEBdV)，[奈良](https://photos.google.com/album/AF1QipMQn-dpiZBwtsEME7Z0HlHadl1BmUHyTz5YGlyK)，[京都](https://photos.google.com/album/AF1QipNPX3MlTcpo3Wn_FaqBBuC7jrDqjENaDMEiXC5p)）
   -  2019 春: [澳门](https://photos.google.com/album/AF1QipO3rg8n8Gr8dAAXfMnFU68dL0qAHPDYgfbpbpen)一日游
   -  2019 冬: [亚特兰大](https://photos.google.com/album/AF1QipMwWqVliE1uk5GSN69Vo6c3GnfkIHylmcWWZRmW)
