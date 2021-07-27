@@ -22,6 +22,7 @@ Past: [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.gi
 
 # 小小牛
 
+- [孕照](https://photos.google.com/album/AF1QipMiKu8hVOwPTtMmO-RQUnzfn6Wc_DFny6MMsV20)
 - [新生儿照](https://photos.google.com/album/AF1QipNE743u9zkEEHnpEH4EhjFsIXAS-_j4HO5ej4Og)
 
 # 爱玩的牛扒和土豆
