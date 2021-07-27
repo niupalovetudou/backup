@@ -20,6 +20,10 @@ Past: [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.gi
 
 2021-04-21: 小小牛出生啦！ 
 
+# 小小牛
+
+- [新生儿照](https://photos.google.com/album/AF1QipNE743u9zkEEHnpEH4EhjFsIXAS-_j4HO5ej4Og)
+
 # 爱玩的牛扒和土豆
 
 ## 一起旅行
