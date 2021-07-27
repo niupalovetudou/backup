@@ -116,7 +116,7 @@ Past: [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.gi
 2020-12-24: 听了一个 talk. Early-Career Discrimination: Spiraling or Self-Correcting?
 关于 bandit problem 和 matching. 然而宝宝在开始就已看穿了一切 😎
 
-2021-11-28 & 2020-12-01: Wedding :)
+2021-11-28 & 2020-12-01: [Wedding](https://photos.google.com/album/AF1QipNgUUwdq9GU3HHOMCk5_h00e7wT2Po9CCWind3h) :)
 
 2021-11-10: 拍[结婚照](https://photos.google.com/album/AF1QipOYvuHMOfuwk7t0dWczkOaZqI0gXf3nf76kaESz)~
 
