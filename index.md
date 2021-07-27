@@ -118,6 +118,8 @@ Past: [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.gi
 
 2021-11-28 & 2020-12-01: Wedding :)
 
+2021-11-10 [结婚照](https://photos.google.com/album/AF1QipOYvuHMOfuwk7t0dWczkOaZqI0gXf3nf76kaESz)
+
 2020-08-19: 阿拉的海。
 
 2020-08-16: 游泳~ 怀念科大干净、温暖且人少的泳池了
