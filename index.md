@@ -23,8 +23,8 @@ Past: [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.gi
 # 爱玩的牛扒和土豆
 
 ## 一起旅行
-  -  2020 夏: [西北](https://photos.google.com/album/AF1QipOCOy26-eDM1dBWaaIxN1I-2hJzFUh3gTSOiK3T) (兰州，西宁，青海湖，敦煌)
-  -  2020 冬: 美国（[LA](https://photos.google.com/album/AF1QipMtqyStT_a8GCKoi0kV6tsh0PMQpLoT4xiPAjh9)，[SD](https://photos.google.com/album/AF1QipOBmf18f1Yr1wTn1y3KhLxW1lrYAcmKlszpo-yV)，三番）
+  -  2020 夏: [西北](https://photos.google.com/album/AF1QipNCp1rlDTSN-AnCyeL4cgujamXd5hf0ioifRze6) (兰州，西宁，青海湖，敦煌)
+  -  2020 冬: 美国（[LA](https://photos.google.com/album/AF1QipMtqyStT_a8GCKoi0kV6tsh0PMQpLoT4xiPAjh9)，[SD](https://photos.google.com/album/AF1QipOBmf18f1Yr1wTn1y3KhLxW1lrYAcmKlszpo-yV)，[三番](https://photos.google.com/album/AF1QipNgbMKkFf-11BjIVezezZc-j31all26RPRRWiYG)）
   -  2019 夏: 英国（[伦敦](https://photos.google.com/album/AF1QipMZ-VXHgVNYgKYYkWhux4J0BDMcYB0puApHzwio)，[曼彻斯特](https://photos.google.com/album/AF1QipNuCXRr9AJzUV3Ks7c1IO9DOg8nwBYnLChDs0uv)）
   -  2019 春: 日本关西（[大阪](https://photos.google.com/album/AF1QipMTyhyuaYLgA80nJw0J9S09xpjB0aq4bFtxEBdV)，[奈良](https://photos.google.com/album/AF1QipMQn-dpiZBwtsEME7Z0HlHadl1BmUHyTz5YGlyK)，[京都](https://photos.google.com/album/AF1QipNPX3MlTcpo3Wn_FaqBBuC7jrDqjENaDMEiXC5p)）
   -  2019 春: [澳门](https://photos.google.com/album/AF1QipO3rg8n8Gr8dAAXfMnFU68dL0qAHPDYgfbpbpen)一日游
@@ -35,8 +35,8 @@ Past: [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.gi
   -  2017 夏: 泰国（[涛岛潜水](https://photos.google.com/album/AF1QipM9Q1BznIop-hNLPKAlYlS9_LGbjDeix9L07t2o)，[清迈](https://photos.google.com/album/AF1QipNihJsUV2kbgIOdhSj2QqmrwmRmUps1HrWfNKwi)），[新加坡](https://photos.google.com/album/AF1QipNdhnHVaUqx1M3sAs5R8rqRsZJIiwQhZbHkONct)
 
 ## 没有牛扒的土豆
-  -  2020 冬: 日本东京
-  -  2019 夏: 西雅图
+  -  2020 冬: [日本东京](https://photos.google.com/album/AF1QipMeheVhq_0C93PBd-NJ9absAYHXgiW6nIMjSjSB)
+  -  2019 夏: [西雅图](https://photos.google.com/album/AF1QipOkCF4ZG8rp98wNMR9e43z5acdhQMpY08A9rz8l)
   -  2018 冬（夏）: [墨尔本](https://photos.google.com/album/AF1QipMnzMkE343odaDn-b8mbNBPNAmNGJ2k6aMQZ5nP)
   -  2018 秋: [伊斯坦布尔](https://photos.google.com/album/AF1QipNcwVtdMQKEaligp0NVQvNPnpUSZ170RA6Y9YeG)
   -  2018 秋: [那不勒斯](https://photos.google.com/album/AF1QipNWzXnl59rjiXVt-onkGVP9UKjB0yF5Uod9QYwW)
