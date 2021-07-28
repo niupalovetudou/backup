@@ -307,6 +307,8 @@ Past: [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.gi
   - 牛扒🐮希望土豆🥔在找工作这件事上可以主动一点。见下面的Tips。
   - 找工作最重要的当然是 JMP quality 和 network，给定这两者，短期内还可以提高 _presentation_ 和 _interview skills_.
 
+2018-08-17 & 08-18: 大牛出演 [Singin' in the rain](https://photos.google.com/album/AF1QipNWZ6Jafn4wIlkL4GtjffcdxFUXbQZxizH-RP4I)~
+
 
 # 土豆找工作 （阶段性完结~）
 
