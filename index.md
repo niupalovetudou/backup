@@ -20,6 +20,8 @@ Past: [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.gi
 
 2021-07-28: 听了一下午 Persuasion 的 [talk](https://github.com/niupalovetudou/niupalovetudou.github.io/blob/master/file/persuasion.jpg?raw=true)
 
+2021-07-23: 东京奥运会看起来~
+
 2021-04-21: 小小牛出生啦！ 
 
 # 小小牛
