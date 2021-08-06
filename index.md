@@ -45,6 +45,7 @@ Past: [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.gi
 # 爱玩的牛扒和土豆
 
 ## 一起旅行
+  -  2021 夏: 大理
   -  2020 夏: [西北](https://photos.google.com/album/AF1QipNCp1rlDTSN-AnCyeL4cgujamXd5hf0ioifRze6) (兰州，西宁，青海湖，敦煌)
   -  2020 冬: 美国（[LA](https://photos.google.com/album/AF1QipMtqyStT_a8GCKoi0kV6tsh0PMQpLoT4xiPAjh9)，[SD](https://photos.google.com/album/AF1QipOBmf18f1Yr1wTn1y3KhLxW1lrYAcmKlszpo-yV)，[三番](https://photos.google.com/album/AF1QipNgbMKkFf-11BjIVezezZc-j31all26RPRRWiYG)）
   -  2019 夏: 英国（[伦敦](https://photos.google.com/album/AF1QipMZ-VXHgVNYgKYYkWhux4J0BDMcYB0puApHzwio)，[曼彻斯特](https://photos.google.com/album/AF1QipNuCXRr9AJzUV3Ks7c1IO9DOg8nwBYnLChDs0uv)）
