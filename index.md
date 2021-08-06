@@ -29,7 +29,7 @@ Past: [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.gi
 
 2021-08-30: 制作胎毛画~
 
-2021-07-29: 小小牛百日啦~
+2021-07-29: 小小牛百日啦~ 拍了照，理了发。
 
 2021-07-28: 听了一下午 Persuasion 的 [talk](https://github.com/niupalovetudou/niupalovetudou.github.io/blob/master/file/persuasion.jpg?raw=true)
 
