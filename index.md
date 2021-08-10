@@ -5,6 +5,9 @@ description: 这里生活着三种动物：牛🐮，马鸭🦆，和土豆熊�
 
 # Reading Group (Dynamic Information Design)
 ## TODO:
+- Kolotilin and Zapechelnyuk (2019) "Persuasion Meets Delegation"
+- Lipnowski and Ravid (Econometrica 2020) "Cheap Talk with Transparent Motives"
+- Mylovanov (JET 2008) "Veto-based Delegation"
 - Doval and Ely (Econometrica 2020) "Sequential Information Design"
 
 ## Papers covered: 
@@ -17,6 +20,10 @@ Past: [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.gi
 
 
 # News
+2021-08-10: 我们又去拍照啦~ 这回小小牛状态比较好👍
+
+2021-08-09: 《夏日友晴天 (Luca)》。很不错的动画电影，关于与众不同，关于友谊。
+
 2021-08-05: 昆明✈️宁波。病病熊在大牛的照顾下安全到家，呼~
 
 2021-08-04: 游览大理古城。大理🚄昆明。昆明的酒吧过于昂贵和吵闹。
