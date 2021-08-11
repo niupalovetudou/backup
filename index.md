@@ -34,7 +34,7 @@ Past: [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.gi
 
 2021-08-01: 宁波✈️昆明🚄大理
 
-2021-08-30: 制作胎毛画~
+2021-08-30: 制作[胎毛画](https://github.com/niupalovetudou/niupalovetudou.github.io/blob/master/file/niu100days.jpg?raw=true)~
 
 2021-07-29: 小小牛百日啦~ 拍了照，理了发。
 
