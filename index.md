@@ -1,9 +1,10 @@
 ---
 title: 土豆 ❤️ 牛扒
-description: 这里生活着三种动物：牛🐮，马鸭🦆，和土豆熊🐻
+description: 这里生活着三种动物：牛🐮，土豆熊🐻，还有一只新加入的小牛🐂
 ---
 
 # Reading Group (Dynamic Information Design)
+
 ## TODO:
 - Kolotilin and Zapechelnyuk (2019) "Persuasion Meets Delegation"
 - Lipnowski and Ravid (Econometrica 2020) "Cheap Talk with Transparent Motives"
@@ -20,6 +21,10 @@ Past: [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.gi
 
 
 # News
+
+2021-08-14: 七夕和宝宝去探索周边书店。很多都关门了，包括一家国营新华书店，只有一家儿童文创书店还营业。
+- To 大牛：宝宝刚生完小牛，还需要一段时间恢复。不要走太快
+
 2021-08-11: 《寻龙传说 (Raya and the Last Dragon)》。大牛[影评](https://movie.douban.com/review/13788912/)。
 
 2021-08-10: 我们又去拍照啦~ 这回小小牛状态比较好👍
