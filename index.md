@@ -21,7 +21,7 @@ Past: [Reading Group 202101](https://github.com/niupalovetudou/niupalovetudou.gi
 
 
 # News
-2021-08-19: 和熊🐻的朋友们一起吃了凑凑火锅，大牛觉着食材不错。饭后在牛熊在摩天轮下[合了个影](https://photos.google.com/album/AF1QipM4-0t36R2xjD1lk1NGEeMdZku5y4IL9i2YbcLK)。
+2021-08-19: 和熊🐻的朋友们一起吃了凑凑火锅，大牛觉着食材还不错。饭后牛熊在摩天轮下[合了个影](https://photos.google.com/album/AF1QipM4-0t36R2xjD1lk1NGEeMdZku5y4IL9i2YbcLK)。
 
 2021-08-14: 七夕和宝宝去探索周边书店。很多都关门了，包括一家国营新华书店，只有一家儿童文创书店还营业。
 - To 大牛：宝宝刚生完小牛，还需要一段时间恢复。不要走太快
